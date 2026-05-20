@@ -185,7 +185,9 @@ a:visited {
     text-decoration: none
 }
 
-
+a:hover {
+    text-decoration: underline
+}
 
 .nowrap {
     display: inline-block;
@@ -590,7 +592,7 @@ html {
     width: 100%;
     height: 52px;
     min-width: 1024px;
-    z-index: 99
+    z-index: 9997
 }
 
 @media only screen and (max-width:767px) {
@@ -1468,7 +1470,7 @@ html {
     top: 0;
     right: 0;
     left: 0;
-    z-index: 9 ;
+    z-index: 9999;
     margin: 0;
     width: 100%;
     min-width: 1024px;
@@ -1971,7 +1973,7 @@ html {
     #ac-globalnav .ac-gn-link-watch {
         background-size: 50px 42px;
         background-repeat: no-repeat;
-        background-image: url(globalnav/links/watch/image_small.html)
+        background-image: url(globalnav/links/watch/image_small.svg)
     }
 }
 
@@ -1987,7 +1989,7 @@ html {
     #ac-globalnav .ac-gn-link-tv {
         background-size: 23px 42px;
         background-repeat: no-repeat;
-        background-image: url(globalnav/links/tv/image_small.html)
+        background-image: url(globalnav/links/tv/image_small.svg)
     }
 }
 
@@ -2003,7 +2005,7 @@ html {
     #ac-globalnav .ac-gn-link-music {
         background-size: 46px 42px;
         background-repeat: no-repeat;
-        background-image: url(globalnav/links/music/image_small.html)
+        background-image: url(globalnav/links/music/image_small.svg)
     }
 }
 
@@ -2019,7 +2021,7 @@ html {
     #ac-globalnav .ac-gn-link-support {
         background-size: 64px 42px;
         background-repeat: no-repeat;
-        background-image: url(globalnav/links/support/image_small.html)
+        background-image: url(globalnav/links/support/image_small.svg)
     }
 }
 
@@ -2057,7 +2059,7 @@ html {
     #ac-globalnav .ac-gn-link-bag {
         background-size: 17px 48px;
         background-repeat: no-repeat;
-        background-image: url(globalnav/bag/image_small.html)
+        background-image: url(globalnav/bag/image_small.svg)
     }
     #ac-globalnav .ac-gn-menuicon {
         display: block
