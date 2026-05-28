@@ -41,7 +41,7 @@ export default function Footer() {
           <p className="mt-3 text-sm">
             <a href="mailto:nationalparkexplorer@gmail.com" className="hover:text-sunset-400">nationalparkexplorer@gmail.com</a>
           </p>
-          <p className="mt-2 text-sm text-sand-50/80">+1 (541) 682-9034</p>
+          <p className="mt-2 text-sm text-sand-50/80">+1 (212) 631-9047</p>
         </div>
       </div>
       <div className="border-t border-white/10">

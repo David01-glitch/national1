@@ -35,7 +35,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="font-semibold text-forest-900">Phone</p>
-                <p>+1 (541) 682-9034</p>
+                <p>+1 (212) 631-9047</p>
               </div>
               <div>
                 <p className="font-semibold text-forest-900">Mailing address</p>
