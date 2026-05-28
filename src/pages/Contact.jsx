@@ -34,6 +34,10 @@ export default function Contact() {
                 <a className="text-sunset-600 hover:text-sunset-500" href="mailto:nationalparkexplorer@gmail.com">nationalparkexplorer@gmail.com</a>
               </div>
               <div>
+                <p className="font-semibold text-forest-900">Phone</p>
+                <p>+1 (541) 682-9034</p>
+              </div>
+              <div>
                 <p className="font-semibold text-forest-900">Mailing address</p>
                 <p>510 Canyon Road<br/>Salt Lake City, UT 84101, USA</p>
               </div>
